@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    background-color: cornsilk;
+}
+img
+{
+margin: 10px;
+height: 200px;
+}
+li{
+    font-size: 20px;
+    padding:16px;
+    display: inline;
+    margin:0px;
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+p{
+    font-family: Libre Baskerville;
+}
